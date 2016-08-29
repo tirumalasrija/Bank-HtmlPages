@@ -1,0 +1,57 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body{
+	background-color:#EDEDED;
+}
+.content-wrapper{
+	background-color:#fff;
+	margin:30px 0px;
+	box-shadow:0px 0px 20px #000;
+	padding:0px;
+}
+
+.login-container{
+	background-color:#D4001A;
+	padding:30px;
+	color:#fff;
+}
+
+img[src="images/b.png"]{
+	width:250px;
+}
+.top-buffer { margin-top:40px; }
+.text-right
+{
+    text-align: right !important;
+}
+/* acc page*/
+.navbar-default{
+background-color:#D4001A;
+color:#fff;
+}
+.navbar-default .navbar-brand{
+color:#fff;
+}
+.navbar-default .navbar-nav > li > a {
+color:#fff;	
+}
+/* billpay*/
+.billpay{
+margin:0px 10px 10px 10px;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
